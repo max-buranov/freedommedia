@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install nbconvert pandas ipykernel  # Установите необходимые библиотеки
+          pip install requests pandas  # Установка необходимых библиотек
 
       - name: Install Jupyter Kernel
         run: |
@@ -51,4 +51,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs  # Путь к директории, которую вы хотите опубликовать на GitHub Pages
+
 
