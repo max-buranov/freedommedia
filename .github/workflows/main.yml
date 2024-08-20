@@ -13,14 +13,18 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v2
 
-      - name: Set up Python
+      - name: Set up Python 3.12.4
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
+          python-version: '3.12.4'  # Установка версии Python 3.12.4
 
       - name: Install dependencies
         run: |
-          pip install nbconvert pandas  # Установите необходимые библиотеки
+          pip install nbconvert pandas ipykernel  # Установите необходимые библиотеки
+
+      - name: Install Jupyter Kernel
+        run: |
+          python -m ipykernel install --user --name=python3
 
       - name: Run Jupyter Notebook
         run: |
@@ -47,3 +51,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs  # Путь к директории, которую вы хотите опубликовать на GitHub Pages
+
