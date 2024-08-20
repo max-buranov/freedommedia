@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pandas ipykernel  # Установка необходимых библиотек, включая ipykernel
+          pip install requests pandas jupyter nbconvert ipykernel  # Установка всех необходимых библиотек
 
       - name: Install Jupyter Kernel
         run: |
