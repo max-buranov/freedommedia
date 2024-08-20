@@ -31,6 +31,10 @@ jobs:
           jupyter nbconvert --to notebook --execute ChannelParser.ipynb --output ChannelParser_out.ipynb
           jupyter nbconvert --to html --execute ChannelParser.ipynb --output output.html
 
+      - name: Create docs directory if it does not exist
+        run: |
+          mkdir -p docs
+
       - name: Rename and move generated CSV files
         run: |
           mv programm_shedule.csv docs/programm_shedule.csv
