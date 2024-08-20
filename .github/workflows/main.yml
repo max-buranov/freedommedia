@@ -1,0 +1,49 @@
+name: Run and Save CSV to GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Запуск каждый день в полночь по UTC
+  workflow_dispatch:  # Возможность ручного запуска
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install nbconvert pandas  # Установите необходимые библиотеки
+
+      - name: Run Jupyter Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute ChannelParser.ipynb --output ChannelParser_out.ipynb
+          jupyter nbconvert --to html --execute ChannelParser.ipynb --output output.html
+
+      - name: Rename and move generated CSV files
+        run: |
+          mv programm_shedule.csv docs/programm_shedule.csv
+          mv topics.csv docs/topics.csv
+          mv ganres.csv docs/ganres.csv
+          mv actors.csv docs/actors.csv
+
+      - name: Commit and Push changes to GitHub Pages
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          git commit -m "Update output data"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs  # Путь к директории, которую вы хотите опубликовать на GitHub Pages
