@@ -8985,6 +8985,42 @@
 719992,Александр Кнайфель,composer
 719992,Болотбек Шамшиев,writer
 719992,Чингиз Айтматов,writer
+2081044,Osman Nail Dogan,director
+2081044,Гохан Икилкан,actor
+2081044,Seyit Nizam Yilmaz,actor
+2081044,Kutay Sandikçi,actor
+2081044,Burçin Sezen,actor
+2081044,Mert Bugra Tataroglu,actor
+2081044,Халил Кардаш,producer
+2081044,Turgay Sahin,producer
+2081044,Sinan Sertel,producer
+2081044,Ali Saran,composer
+2081044,Osman Nail Dogan,writer
+2081044,Samet Dogan,writer
+2856236,Исмаил Фидан,director
+2856236,Sirin Giobbi,actor
+2856236,Levent Kol,actor
+2856236,Emine Sergen,actor
+2856236,Yagmur Sergen,actor
+2856236,Исмаил Фидан,producer
+2856236,Исмаил Фидан,composer
+2856236,M.Tarkan Ergün,composer
+2856236,Озан Чивит,writer
+2316091,Эйлем Кафтан,director
+2316091,Feyyaz Duman,actor
+2316091,Хакан Карсак,actor
+2316091,Burcu Salihoglu,actor
+2316091,Шеннур Ногайлар,actor
+2316091,Dizem Kaftan,actor
+2316091,Ömer Akdemir,actor
+2316091,Gülay Akdemir,actor
+2316091,Mert Akdemir,actor
+2316091,Erdal Aktun,actor
+2316091,Мерьем Узерли,actor
+2316091,Canol Balkaya,producer
+2316091,Mustafa Karadeniz,producer
+2316091,Onder Onsal,producer
+2316091,Эйлем Кафтан,writer
 1700919,Джем Акьольдас,director
 1700919,Джелил Мурат Сари,director
 1700919,Нехир Эрдоган,actor
@@ -9028,42 +9064,6 @@
 1448778,Джюнейт Инай,writer
 1448778,Байкут Бадем,writer
 1448778,Oktay Berber,writer
-2081044,Osman Nail Dogan,director
-2081044,Гохан Икилкан,actor
-2081044,Seyit Nizam Yilmaz,actor
-2081044,Kutay Sandikçi,actor
-2081044,Burçin Sezen,actor
-2081044,Mert Bugra Tataroglu,actor
-2081044,Халил Кардаш,producer
-2081044,Turgay Sahin,producer
-2081044,Sinan Sertel,producer
-2081044,Ali Saran,composer
-2081044,Osman Nail Dogan,writer
-2081044,Samet Dogan,writer
-2856236,Исмаил Фидан,director
-2856236,Sirin Giobbi,actor
-2856236,Levent Kol,actor
-2856236,Emine Sergen,actor
-2856236,Yagmur Sergen,actor
-2856236,Исмаил Фидан,producer
-2856236,Исмаил Фидан,composer
-2856236,M.Tarkan Ergün,composer
-2856236,Озан Чивит,writer
-2316091,Эйлем Кафтан,director
-2316091,Feyyaz Duman,actor
-2316091,Хакан Карсак,actor
-2316091,Burcu Salihoglu,actor
-2316091,Шеннур Ногайлар,actor
-2316091,Dizem Kaftan,actor
-2316091,Ömer Akdemir,actor
-2316091,Gülay Akdemir,actor
-2316091,Mert Akdemir,actor
-2316091,Erdal Aktun,actor
-2316091,Мерьем Узерли,actor
-2316091,Canol Balkaya,producer
-2316091,Mustafa Karadeniz,producer
-2316091,Onder Onsal,producer
-2316091,Эйлем Кафтан,writer
 1399257,Devrim Karabatak,director
 1399257,Serdar Kilic,actor
 1399257,Serdar Kilic,writer
@@ -9106,32 +9106,6 @@
 1738122,Наргиз Айдарова,actor
 1738122,Аман Гумаров,actor
 1738122,Рустем Жаныаманов,actor
-2286613,Алтан Юджель,director
-2286613,Джантуг Турай,actor
-2286613,Бегюм Топчу,actor
-2286613,Серхат Налбантоглу,actor
-2286613,Башак Акбай,actor
-2286613,Нермин Угур,actor
-2286613,Туан Туналы,actor
-2286613,Йылдырым Шимшек,actor
-2286613,Толга Теджер,actor
-2286613,Артемис Караман,actor
-2286613,Волкан Мурат Бенли,actor
-2286613,Нильгун Сайашар,producer
-2286613,Волкан Акмехмет,composer
-2286613,Филиз Алпгезмен,writer
-2073687,Ильхам Джалилов,director
-2073687,Ерлан Нурмухамбетов,director
-2073687,Еркебулан Токтар,actor
-2073687,Жасулан Омирбек,actor
-2073687,Медгат Омиралиев,actor
-2073687,Дастан Пышанов,actor
-2073687,Айдана Елемес,actor
-2073687,Алмагуль Казихан,actor
-2073687,Алия Кошекбаева,actor
-2073687,Нуржан Тутов,actor
-2073687,Альбина Джалилова,producer
-1686199,Ильдар Гизатуллин,presenter
 2525849,Мурат Сарачоглу,director
 2525849,Вахиде Гердюм,actor
 2525849,Мустафа Угурлу,actor
@@ -10612,17 +10586,25 @@
 1319941,Джонатан Кинг,producer
 1319941,Алекс Эберт,composer
 1319941,Джей Си Чендор,writer
-3001615,Ноэ Дебре,director
-3001615,Бенжамин Шарби,director
+3001615,Эмили Нобле,director
+3001615,Жан Батист Сорель,director
 3001615,Сальво Фикарра,actor
+3001615,Жюльен Оливери,actor
+3001615,Давид Айала,actor
 3001615,Эрик Эльмоснино,actor
-3001615,Жюльен Паскаль,actor
+3001615,Жон Виар,actor
+3001615,Лука Фонтен,actor
 3001615,Андре Дюссолье,actor
 3001615,Жан Дюжарден,actor
 3001615,Одри Дана,actor
 3001615,Грегори Гадебуа,actor
-3001615,Жан-Бенуа Югё,actor
+3001615,Франсуа Ивернель,producer
 3001615,Марк Дюжарден,producer
+3001615,Гаэтан Давид,producer
+3001615,Жюли Руэ,composer
+3001615,Ноэ Дебре,writer
+3001615,Бенжамин Шарби,writer
+3001615,Эммануэль Пулен-Арно,writer
 1528825,Триша Брок,director
 1528825,Рэндолл Айнхорн,director
 1528825,Джейк Шрейер,director
@@ -27108,14 +27090,14 @@
 368171,Иван Кудрявцев,presenter
 1305621,Эдуард Петров,presenter
 1305621,Эдуард Петров,writer
-1674320,Сергей Шаргунов,presenter
-1539530,Михаил Зеленский,presenter
-1009982,Иларион Волоколамский,presenter
+2330301,Роберт Францев,presenter
+1185057,Никита Михалков,presenter
 1767052,Владимир Соловьев,presenter
 1767052,Александр Левин,writer
 1767052,Владимир Соловьев,writer
-1519677,Николай Сванидзе,presenter
-1185057,Никита Михалков,presenter
+1674320,Сергей Шаргунов,presenter
+1539530,Михаил Зеленский,presenter
+1009982,Иларион Волоколамский,presenter
 1063819,Елена Русаченко,director
 1063819,Oleg Naumov,producer
 1036879,Irina Konovalova,director
@@ -47097,6 +47079,17 @@
 2998044,Венера Каиржанова,writer
 2998044,Алдияр Байракимов,writer
 2998044,Роман Жуков,writer
+2073687,Ильхам Джалилов,director
+2073687,Ерлан Нурмухамбетов,director
+2073687,Еркебулан Токтар,actor
+2073687,Жасулан Омирбек,actor
+2073687,Медгат Омиралиев,actor
+2073687,Дастан Пышанов,actor
+2073687,Айдана Елемес,actor
+2073687,Алмагуль Казихан,actor
+2073687,Алия Кошекбаева,actor
+2073687,Нуржан Тутов,actor
+2073687,Альбина Джалилова,producer
 1146280,Пак Чэ-бом,director
 1146280,Чжин-ман Ким,director
 1146280,Ким Хе Ри,actor
@@ -52366,8 +52359,8 @@
 2819016,Аманда Бауэрс,producer
 2819016,Лео Биренберг,composer
 2819016,Гейб Польски,writer
-2819016,Джон Уильямс,writer
 2819016,Лиам Сатр-Мелой,writer
+2819016,Джон Уильямс,writer
 2632280,Бретт Доноху,director
 2632280,Райан Кира Армстронг,actor
 2632280,Ноа Ле Грос,actor
@@ -52719,29 +52712,6 @@
 2746973,Джонни Стронг,composer
 2746973,Джонни Стронг,writer
 2746973,Уильям Кауфман,writer
-2665084,Джулио Сото Гарпид,director
-2665084,Висенте Хиль,actor
-2665084,Ана Хименес,actor
-2665084,Джулиан Родригес,actor
-2665084,Хесус Барреда,actor
-2665084,Андреа Виллаверде,actor
-2665084,Катерина Мартинес,actor
-2665084,Чема Москосо,actor
-2665084,Педро Тена,actor
-2665084,Изабель Донате,actor
-2665084,Фернандо Гарсия (Мексика),actor
-2665084,Питер Роджерс,producer
-2665084,Джулио Сото Гарпид,producer
-2665084,Энеко Гутьеррес,producer
-2665084,Карл Ричардс,producer
-2665084,Рокко Пучилло,producer
-2665084,Джейсон Каминский,producer
-2665084,Dario Sanchez,producer
-2665084,Адриана Мальфатти Чен,producer
-2665084,Фернандо Веласкес,composer
-2665084,Тоби Дейвис,writer
-2665084,Рокко Пучилло,writer
-2665084,Дэвид Фридман,writer
 2758263,Скотт Во,director
 2758263,Ико Уайс,actor
 2758263,Джейкоб Скипио,actor
@@ -60666,6 +60636,53 @@
 492871,Гарет Уайли,producer
 492871,Жорж Бизе,composer
 492871,Вуди Аллен,writer
+1453161,Холли Мейерс-Шайер,director
+1453161,Лола Флэнери,actor
+1453161,Пико Александр,actor
+1453161,Джон Рудницкий,actor
+1453161,Эден Грейс Рэдфилд,actor
+1453161,Нат Вулф,actor
+1453161,Риз Уизерспун,actor
+1453161,Майкл Шин,actor
+1453161,Кэндис Берген,actor
+1453161,Лейк Белл,actor
+1453161,Кристин Вудс,actor
+1453161,Эрика Олд,producer
+1453161,Джереми Сэмюэлс,producer
+1453161,Paula Case,producer
+1453161,Sabrina Jaglom,producer
+1453161,Нэнси Майерс,producer
+1453161,Джон Дебни,composer
+1453161,Холли Мейерс-Шайер,writer
+2270563,Джон Своб,director
+2270563,София Хьюблиц,actor
+2270563,Николас Чирилло,actor
+2270563,Бо Напп,actor
+2270563,Уильям Форсайт,actor
+2270563,Джош Хартнетт,actor
+2270563,Мелисса Лео,actor
+2270563,Фрэнк Грилло,actor
+2270563,Марк Бун Джуниор,actor
+2270563,Дебора Энн Уолл,actor
+2270563,Слэйн,actor
+2270563,Роберт Огден Барнум,producer
+2270563,Билл Бромили,producer
+2270563,Мэттью Хелдерман,producer
+2270563,Вивиана Заррагоиша,producer
+2270563,Люк Дилан Тейлор,producer
+2270563,Джонатан Саба,producer
+2270563,Джереми М. Розен,producer
+2270563,Джон Своб,producer
+2270563,Шэнан Бекер,producer
+2270563,Несс Сабан,producer
+2270563,Николь Флорес,producer
+2270563,Джоэлль Скотт,producer
+2270563,Али Джазаери,producer
+2270563,Донна В.Скотт,producer
+2270563,Howard Scott,producer
+2270563,Уэзерсби С.Б.,producer
+2270563,Дэвид Сарди,composer
+2270563,Джон Своб,writer
 1117217,Стивен Фрирз,director
 1117217,Стив Куган,actor
 1117217,Мишель Фэйрли,actor
@@ -60837,33 +60854,6 @@
 1078137,Kin Chung Chan,writer
 1078137,Peter Tsi,writer
 1078137,Michelle Tsui,writer
-1898234,Бен Лоуренс,director
-1898234,Брэндон Бурк,actor
-1898234,Хейли МакЭлхинни,actor
-1898234,Алан Дьюкс,actor
-1898234,Виктория Харалабиду,actor
-1898234,Эндрю Лури,actor
-1898234,Мелани Де Ферранти,actor
-1898234,Карим Зрейка,actor
-1898234,Fran Kelly,actor
-1898234,Хьюго Уивинг,actor
-1898234,Тони Скэнлэн,actor
-1898234,Шеннон Уилсон,producer
-1898234,Мэтт Ридер,producer
-1898234,Стивен Бойл,producer
-1898234,Стефен Фитцгиббон,producer
-1898234,Джош Померанц,producer
-1898234,Бен Лоуренс,producer
-1898234,Declan Cahill,producer
-1898234,Леа Чёрчилл-Браун,producer
-1898234,Sue Greenshield,producer
-1898234,Пола Дженсен,producer
-1898234,Sarah Noonan,producer
-1898234,Адам Скотт Миллер,producer
-1898234,Мэтт Картер,producer
-1898234,Рафаэль Мэй,composer
-1898234,Беатрикс Кристиан,writer
-1898234,Бен Лоуренс,writer
 746092,Эндрю Флеминг,director
 746092,А.Расселл Эндрюс,actor
 746092,Майкл Дуглас,actor
@@ -61089,6 +61079,33 @@
 1122835,Хо Су-ён,producer
 1122835,Бенжамин Легран,writer
 1122835,Жан-Марк Рошетт,writer
+1898234,Бен Лоуренс,director
+1898234,Брэндон Бурк,actor
+1898234,Хейли МакЭлхинни,actor
+1898234,Алан Дьюкс,actor
+1898234,Виктория Харалабиду,actor
+1898234,Эндрю Лури,actor
+1898234,Мелани Де Ферранти,actor
+1898234,Карим Зрейка,actor
+1898234,Fran Kelly,actor
+1898234,Хьюго Уивинг,actor
+1898234,Тони Скэнлэн,actor
+1898234,Шеннон Уилсон,producer
+1898234,Мэтт Ридер,producer
+1898234,Стивен Бойл,producer
+1898234,Стефен Фитцгиббон,producer
+1898234,Джош Померанц,producer
+1898234,Бен Лоуренс,producer
+1898234,Declan Cahill,producer
+1898234,Леа Чёрчилл-Браун,producer
+1898234,Sue Greenshield,producer
+1898234,Пола Дженсен,producer
+1898234,Sarah Noonan,producer
+1898234,Адам Скотт Миллер,producer
+1898234,Мэтт Картер,producer
+1898234,Рафаэль Мэй,composer
+1898234,Беатрикс Кристиан,writer
+1898234,Бен Лоуренс,writer
 1327672,Виталий Политаев,director
 1327672,Артём Абрамов,presenter
 1327672,Максим Ушаков,writer
